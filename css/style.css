@@ -1,0 +1,140 @@
+body{
+    margin: 2px;
+    padding: 20px;
+    background: radial-gradient(rgb(56, 57, 58),rgb(225, 250, 3));
+    font-size: 35px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+
+}
+
+.portfolio{
+    background-image: url(../photo/images7.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color:blanchedalmond;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    border: 10px ridge rgb(60, 225, 236);
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.présentations{
+    background-image: url(../photo/images7.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color:blanchedalmond;
+    font-family:cursive;
+    text-align: center;
+    border: 5px ridge rgb(60, 225, 236);
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.présentation{
+    background-image: url(../photo/images7.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color:blanchedalmond;
+    font-family:serif;
+    text-align:center;
+    border: 5px ridge rgb(60, 225, 236);
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.h3{
+    background-image: url(../photo/images7.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color:blanchedalmond;
+    font-family:serif;
+    text-align:center;
+    border: 5px ridge rgb(60, 225, 236);
+    margin: 20px;
+    padding: 20px;
+    
+    }
+
+.monparcours{
+    background-image: url(../photo/images7.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color:blanchedalmond;
+    font-family:cursive;
+    text-align:center;
+    border: 5px ridge rgb(60, 225, 236);
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.parcoursperso{
+    background-image: url(../photo/images7.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color:blanchedalmond;
+    font-family:serif;
+    text-align:center;
+    border: 5px ridge rgb(60, 225, 236);
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.parcourssoc{
+    background-image: url(../photo/images7.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color:blanchedalmond;
+    font-family:serif;
+    text-align:center;
+    border: 5px ridge rgb(60, 225, 236);
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.parcourspro{
+    background-image: url(../photo/images7.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color:blanchedalmond;
+    font-family:serif;
+    text-align:center;
+    border: 5px ridge rgb(60, 225, 236);
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.mestravaux{
+    background-image: url(../photo/images7.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color:blanchedalmond;
+    font-family:cursive;
+    text-align:center;
+    border: 5px ridge rgb(60, 225, 236);
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.travaux{
+    background-image: url(../photo/images7.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color:blanchedalmond;
+    font-family:serif;
+    text-align:center;
+    border: 5px ridge rgb(60, 225, 236);
+    margin: 20px;
+    padding: 20px;
+
+}
+
